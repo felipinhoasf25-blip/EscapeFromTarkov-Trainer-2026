@@ -1,5 +1,5 @@
-# 🤖 Escape-From-Tarkov-Trainer-2026
-Free Escape From Tarkov Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.
+# 🤖 EscapeFromTarkov-Trainer-2026
+Free EscapeFromTarkov Trainer with support for many cfg files. Auto-updates, no key system. Works in 2026.
 <div align="center">
 
 </div>
