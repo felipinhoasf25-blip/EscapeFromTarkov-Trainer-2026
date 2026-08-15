@@ -7,6 +7,8 @@ Free EscapeFromTarkov Trainer with support for many cfg files. Auto-updates, no 
 <img width="1573" height="747" alt="123" src="https://github.com/user-attachments/assets/42cb8310-edbb-4126-b1ab-5b336516cfe2" />
 
 ---
+#upd
+✅✅ 15.08 || NEW FIX!
 
 ## || 📖 About 
 
